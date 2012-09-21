@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/drewgulino/Documents/workspace/bws/.git'
+let g:netrw_dirhist_2='/Users/drewgulino/python'
+let g:netrw_dirhist_3='/Users/drewgulino/Documents/workspace/pbod_server_setup'
+let g:netrw_dirhist_4='/Users/drewgulino/Documents/workspace/pbod_server_setup/src'
+let g:netrw_dirhist_5='/Users/drewgulino/Documents/workspace/pbod_server_setup'
+let g:netrw_dirhist_6='/Users/drewgulino/Documents/workspace/pbod_server_setup/src'
+let g:netrw_dirhist_7='/Users/drewgulino/Documents/workspace/pbod_server_setup/config'
+let g:netrw_dirhist_8='/Users/drewgulino/Documents/workspace/pbod_server_setup'
+let g:netrw_dirhist_9='/Users/drewgulino/Documents/workspace/pbod_server_setup/src'
