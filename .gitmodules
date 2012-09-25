@@ -25,3 +25,6 @@
 [submodule "bundle/vim-rebar"]
 	path = bundle/vim-rebar
 	url = https://github.com/mbbx6spp/vim-rebar.git
+[submodule "bundle/vim-sparkup"]
+	path = bundle/vim-sparkup
+	url = git://github.com/tristen/vim-sparkup.git
