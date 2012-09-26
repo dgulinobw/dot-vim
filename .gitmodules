@@ -34,3 +34,6 @@
 [submodule "bundle/vimerl"]
 	path = bundle/vimerl
 	url = https://github.com/jimenezrick/vimerl.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
