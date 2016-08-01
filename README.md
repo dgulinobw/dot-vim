@@ -1,1 +1,3 @@
- git submodule update --init
+After git clone, run:
+```git submodule update --init --recursive```
+
